@@ -64,10 +64,3 @@ A Streamlit application demonstrating a Retrieval-Augmented Generation (RAG) wor
     - Uses DuckDuckGo if knowledge base results are insufficient.
     - `gpt-4o-mini` synthesizes information to generate the final response.
 
-## Contributing
-
-Contributions, issues, and feature requests are welcome. Please feel free to submit a Pull Request or open an issue.
-
-## License
-
-This project is licensed under the MIT License. See the LICENSE file for details (if one exists). 
